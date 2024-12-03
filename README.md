@@ -13,6 +13,7 @@ Add any libraries or components here.
 
 - :movie_camera: [**Motion Canvas Camera**](https://github.com/ksassnowski/motion-canvas-camera) – A camera component that allows you to move a camera around the scene, focus onto nodes and much more.
 - :mountain_snow: [**Motion Canvas Nord**](https://github.com/hhenrichsen/motion-canvas-nord) - A cool set of colors and a code block theme for Motion Canvas. Also available on NPM under `@hhenrichsen/motion-canvas-nord`.
+- :toolbox: [**Motion Canvas Components**](https://github.com/pihedron/motion-canvas-components) - A collection of custom components for arrays, lists, binary trees, graphs, and more. One Dark theme included.
 
 # Resources
 
